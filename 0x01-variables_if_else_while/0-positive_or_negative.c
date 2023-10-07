@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - declare state of number
- * return = 0
+ * main - Determines if a number is positive, negative or zero.
+ * Return: 0 (Success):
  */
 
 int main(void)
