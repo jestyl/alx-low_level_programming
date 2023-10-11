@@ -1,10 +1,12 @@
 #include "main.h"
 
 /**
- * main - print _putchar
- * Return : 0 (Success)
+ * main - Entry point
+ *
+ * Description: This is main function that prints characters using _putchar
+ *
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	_putchar('_');
@@ -16,5 +18,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-return (0);
+	return (0);
 }
