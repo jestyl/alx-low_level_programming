@@ -4,7 +4,7 @@
 
 /**
  * main - generate valid key for username of crackme5
- * @argc: number of arguments 
+ * @argc: number of arguments
  * @argv: arguments passed to main
  *
  * Return: 0 else 1 on error
